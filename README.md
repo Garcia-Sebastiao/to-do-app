@@ -6,3 +6,4 @@ https://todoapp-gsversion.netlify.app/
 
 ## Obs
 This is only a demo, the complete version be out soon.
+For better experience, open in a mobile device or with a mobile screen simulator on your browser.
